@@ -14,6 +14,7 @@ body {
   background-color: hsl(0, 0%, 100%);
   align-items: center;
   text-align: center;
+  margin: auto;
   border-radius: 16px;
   padding: 1em;
   width: 320px;
