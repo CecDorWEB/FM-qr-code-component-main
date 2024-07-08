@@ -6,7 +6,7 @@ body {
   background-color: hsl(212, 45%, 89%);
   font-family: "Outfit", sans-serif;
   font-size: 15px;
-  padding: 8em 0;
+  padding: 8.5em 0;
   min-height: 100vh;
 }
 
@@ -29,9 +29,11 @@ body {
 .card h1 {
   font-size: 22px;
   margin: 16px;
+  color: hsl(218, 44%, 22%);
 }
 .card p {
   margin: 8px 16px;
+  color: hsl(220, 15%, 55%);
 }
 
 /*# sourceMappingURL=style.css.map */
